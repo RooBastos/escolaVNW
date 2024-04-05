@@ -1,0 +1,1 @@
+INSERT INTO tb_alunos(nome, email, cpf, telefone, curso) VALUES ('Roberta Bastos', 'robertinha@hotmail.com', '618.988.410-55', '5521975721314', 2);

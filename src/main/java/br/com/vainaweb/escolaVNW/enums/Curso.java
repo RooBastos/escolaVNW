@@ -1,0 +1,15 @@
+package br.com.vainaweb.escolaVNW.enums;
+
+public enum Curso {
+
+	PSICOLOGIA,
+	ADIMINISTRAÇÃO,
+	ENGENHARIA,
+	ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS,
+	LITERATURA,
+	BIOLOGIA,
+	TEOLOGIA,
+	NUTRIÇÃO,
+	EDUCAÇÃO_FÍSICA;
+	
+}
